@@ -32,9 +32,16 @@ export default function Home() {
           <p className="text-lg text-gray-300">
 +4 years learning and applying web development. Real-world experience in the field. From managing databases, adapting models, creating controllers, to building responsive websites, untill their final production and deployment using docker.
 
-Also, I've got along with backend and the data world: certified by Inidicium academy as Analytics engineer.
+Also, I&apos;ve got along with backend and the data world: certified by Inidicium academy as Analytics engineer.
 
 Responsible, passionate and proactive. Fast learner, troubleshooter and great coworker.          </p>
+
+<a
+            href="/assets/CVs.zip"
+            className="inline-block bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700 transition"
+            download
+          
+>Download CVs</a>
         </section>
 
 {/* Herramientas */}
@@ -101,7 +108,7 @@ Responsible, passionate and proactive. Fast learner, troubleshooter and great co
                   controls
                   className="w-full rounded-md object-cover bg-gray-700 flex-shrink-0"
                 />
-                <span><i>** This platform is only accesible by the company's staff</i></span>
+                <span><i>** This platform is only accesible by the company&apos;s staff</i></span>
               </div>
               </div>
               
@@ -203,12 +210,13 @@ My most-proud platform built (Frontend side). This is a completely functional pl
               <h3 className="text-xl font-bold text-indigo-200">IoT project: Valerina</h3>
               <p className="text-gray-300 mt-2">
 Development and installation of an IoT complete system into a fish-farming project in my region.  
-<div className="mt-4 flex flex-wrap gap-2">
+       </p>
+       <div className="mt-4 flex flex-wrap gap-2">
                   <span className="bg-indigo-700/80 px-2 py-1 rounded text-xs font-medium">IoT</span>
                   <span className="bg-indigo-700/80 px-2 py-1 rounded text-xs font-medium">Raspberri pi</span>
                   <span className="bg-indigo-700/80 px-2 py-1 rounded text-xs font-medium">Linux</span>
                   <span className="bg-indigo-700/80 px-2 py-1 rounded text-xs font-medium">MQTT and Lora</span>
-                </div>            </p>
+                </div>     
               
             </div>
             </div>
@@ -226,7 +234,7 @@ Development and installation of an IoT complete system into a fish-farming proje
               href="mailto:gabo2023brazil@gmail.com"
               className="inline-block bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700 transition"
             >
-              Let's talk!
+              Let&apos;s talk!
           </a>
           {/* <form className="space-y-4">
             <div>
