@@ -142,7 +142,7 @@ My most-proud platform built (Frontend side). This is a completely functional pl
                   alt="Logo Kairos Research"
                   className="w-full rounded-md object-cover bg-gray-700 flex-shrink-0"
                 />
-                <span><i>** Currently this platform is being used by company's members.</i></span>
+                <span><i>** Currently this platform is being used by company&apos;s members.</i></span>
               </div>
               </div>
              
