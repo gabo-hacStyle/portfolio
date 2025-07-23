@@ -20,7 +20,7 @@ export default function Home() {
             Gabriel Fajardo
           </h1>
           <p className="text-lg md:text-xl text-gray-200 max-w-2xl">
-           Junior Fullstack | Junior Data Analyst 
+           Web Developer | Junior Data Analyst 
           </p>
         </div>
       </section>
@@ -30,18 +30,18 @@ export default function Home() {
         <section id="quien-soy" className="space-y-4">
           <h2 className="text-3xl font-bold text-indigo-400">This is me</h2>
           <p className="text-lg text-gray-300">
-+4 years learning and applying web development. Real-world experience in the field. From managing databases, adapting models, creating controllers, to building responsive websites, untill their final production and deployment using docker.
++4 years learning and applying web development. Real-world experience in the field as frontend developer with NextJS. From managing databases, adapting models, creating controllers, to building responsive websites, untill their final production and deployment using docker.
 
 Also, I&apos;ve got along with backend and the data world: certified by Inidicium academy as Analytics engineer.
 
 Responsible, passionate and proactive. Fast learner, troubleshooter and great coworker.          </p>
 
 <a
-            href="/assets/CVs.zip"
+            href="/assets/CV.pdf"
             className="inline-block bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700 transition"
             download
-          
->Download CVs</a>
+          >
+          Download CV</a>
         </section>
 
 {/* Herramientas */}
@@ -142,7 +142,7 @@ My most-proud platform built (Frontend side). This is a completely functional pl
                   alt="Logo Kairos Research"
                   className="w-full rounded-md object-cover bg-gray-700 flex-shrink-0"
                 />
-                <span><i>** Currently this platform has been disabled by the company</i></span>
+                <span><i>** Currently this platform is being used by company's members.</i></span>
               </div>
               </div>
              
